@@ -1,1 +1,1 @@
-# New-Css-Snap-Feature
+# CSS Snap Effect: [Live Preview](https://css-snap.netlify.app/).
